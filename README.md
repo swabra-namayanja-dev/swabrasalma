@@ -1,18 +1,17 @@
 # Hello there 👋, I'm Swabra Namayanja 
 
-### Software Dev | Analysis & Design | DevOps | Cloud
+### Software Developer | Transactional Banking lead | Tech Ethusiast | Mentor
 
-- 🔭 I’m currently working on: __Business Analysis with Enterprise Software Solutions & Architectures__
-- 🔭 I’m currently working on: __DevOps & Site Reliability Engineering__
-- 🔭 I’m currently working on: __Python Programming Couch @ Django Girls Kampala__
-- 🔭 I’m currently working on: __Cirliculum Lead at Uganda American Learning center STEM Bootcamp for Young Women__ 
+- 🔭 I’m currently working on: __Product Management and Development for Enterprises __
+- 🔭 I’m currently working on: __Global Products and Cash Management__
+- 🔭 I’m currently working on: __Ginga Stealth Solutions__
 - 🌱 I’m currently learning: __AWS, Solidity Programming, DevSecOps__
 - 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
-- 💬 Ask me about __Business Analysis & Solution design, Digital service Transformation, Stakeholder Engagements in SDLC...__
+- 💬 Ask me about __Business Analysis, Solution design and Architecture, Digital service Transformation, Business Strategy...__
 - 👯 I’m looking to collaborate on __Python Data Science, Solidity Programming, STEM Programme__
 - 🤔 I’m looking for help with __AWS, Solidity Programming, DevSecOps__
 - 🧧 Chinnese name: __色瓦扒蜡__
-- ⚡ Fun fact: __It's all 0's and 1's mahn__  
+- ⚡ Fun fact: __Try Python, It won't byte😄__  
 
 <br/>
 
@@ -211,20 +210,3 @@
     </tr>
 </table>
 
-
-
-
-<!--
-**swabrasalma/swabrasalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
